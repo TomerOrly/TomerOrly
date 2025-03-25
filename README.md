@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TomerOrly
 - 👀 I’m interested in Coding, Equities, Sports, etc.
-- 🌱 I’m currently learning Information Systems Management (B.A).
+- 🌱 I’m currently learning Information Systems Management.
 - 📫 How to reach me - tomeror77@gmail.com
 
 <!---
